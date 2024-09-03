@@ -1,7 +1,7 @@
 import Login from './Login';
 
 export default {
-    title: 'Login',
+    title: 'Storybook/Login/LoginAtom',
     component: Login,
 }
 
